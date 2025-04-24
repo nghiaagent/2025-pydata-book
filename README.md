@@ -1,3 +1,8 @@
+# Forked copy
+for my learning of Python.
+
+- @nghiaagent
+
 # Python for Data Analysis, 3rd Edition
 
 Materials and IPython notebooks for "Python for Data Analysis, 3rd
