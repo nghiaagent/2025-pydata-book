@@ -1,0 +1,7 @@
+# Introduction
+
+This is my code and answers for questions in the Python for Data Analysis (3rd edition) [book](https://wesmckinney.com/book)
+
+## Motivation
+
+I want to learn a more OO language to compliment my R knowledge.
