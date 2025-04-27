@@ -1,0 +1,20 @@
+project:
+  type: book
+
+book:
+  title: "Python for Data Analysis Workbook"
+  author: "Nghia Nguyen (Mitchell)"
+  date: today
+  repo-url: https://github.com/nghiaagent/2025-pydata-book
+  chapters:
+    - index.qmd
+    - chapter_2.ipynb
+    - chapter_3.ipynb
+    - chapter_4.ipynb
+
+format:
+  html:
+    theme: zephyr
+
+editor: source
+
