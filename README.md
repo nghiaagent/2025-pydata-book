@@ -1,9 +1,20 @@
-# Forked copy
-for my learning of Python.
+# About this repo
+This is a fork for my learning of Python.
 
 - @nghiaagent
 
-# Python for Data Analysis, 3rd Edition
+# Instructions
+- Make sure Quarto and Python is installed in your system.
+- Set up a new Python `venv` to store relevant packages.
+- Run the following in a terminal:
+```shell
+pip install -r requirements.txt
+quarto render ipynb
+```
+
+# Original README
+
+## Python for Data Analysis, 3rd Edition
 
 Materials and IPython notebooks for "Python for Data Analysis, 3rd
 Edition" by Wes McKinney, published by O'Reilly Media. Book content
@@ -14,17 +25,17 @@ website][6].
 
 Follow Wes on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/wesmckinn.svg?style=social&label=Follow)](https://twitter.com/wesmckinn)
 
-# 2nd Edition Readers
+## 2nd Edition Readers
 
 If you are reading the 2nd Edition (published in 2017), please find the
 reorganized book materials on the [`2nd-edition` branch][5].
 
-# 1st Edition Readers
+## 1st Edition Readers
 
 If you are reading the 1st Edition (published in 2012), please find the
 reorganized book materials on the [`1st-edition` branch][2].
 
-## IPython Notebooks:
+### IPython Notebooks:
 
 * [Chapter 2: Python Language Basics, IPython, and Jupyter Notebooks](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch02.ipynb)
 * [Chapter 3: Built-in Data Structures, Functions, and Files](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch03.ipynb)
@@ -40,9 +51,9 @@ reorganized book materials on the [`1st-edition` branch][2].
 * [Chapter 13: Data Analysis Examples](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch13.ipynb)
 * [Appendix A: Advanced NumPy](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/appa.ipynb)
 
-## License
+### License
 
-### Code
+#### Code
 
 The code in this repository, including all code samples in the notebooks listed
 above, is released under the [MIT license](LICENSE-CODE). Read more at the
