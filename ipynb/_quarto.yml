@@ -11,6 +11,7 @@ book:
     - chapter_2.ipynb
     - chapter_3.ipynb
     - chapter_4.ipynb
+    - chapter_5.ipynb
 
 format:
   html:
