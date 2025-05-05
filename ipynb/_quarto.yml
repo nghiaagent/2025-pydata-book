@@ -12,6 +12,7 @@ book:
     - chapter_3.ipynb
     - chapter_4.ipynb
     - chapter_5.ipynb
+    - chapter_6.ipynb
 
 format:
   html:
