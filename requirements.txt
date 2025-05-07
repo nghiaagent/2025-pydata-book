@@ -9,3 +9,8 @@ patsy
 scikit-learn
 beautifulsoup4
 jupyter
+html5lib
+openpyxl
+xlrd
+tables
+requests
