@@ -4,12 +4,11 @@ This is a fork for my learning of Python.
 - @nghiaagent
 
 # Instructions
-- Make sure Quarto and Python is installed in your system.
-- Set up a new Python `venv` to store relevant packages.
+- Make sure `Quarto`, `Python`, and `uv` is installed in your system.
 - Run the following in a terminal:
 ```shell
-pip install -r requirements.txt
-quarto render ipynb
+uv sync
+uv run quarto render ipynb
 ```
 
 # Original README
